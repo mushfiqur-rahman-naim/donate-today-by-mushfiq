@@ -99,6 +99,7 @@ body {
     font-size: 30px;
     font-weight: bold;
     padding: 40px;
+    display: flex;
 
 
 }
@@ -112,6 +113,14 @@ body {
     text-align: center;
     cursor: pointer;
 
+}
+
+#amount-id {
+    border: none;
+    background-color: rgb(27, 26, 26);
+    color: gray;
+    height: 30px;
+    font-size: 20px;
 }
 
 hr {
@@ -283,6 +292,11 @@ hr {
     font-size: 30px;
     font-family: ;
     color: rgb(228, 69, 69);
+}
+
+.links {
+    text-decoration: none;
+    color: black;
 }
 
 /*
